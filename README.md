@@ -26,10 +26,5 @@ pip install numpy scipy scikit-learn matplotlib
 1. Run the notebook to train the LSM and generate `.mem` files.
 2. Import the `.mem` files into your Vivado project using `$readmemh`.
 
-## Author
-**Kamal Kumar Behera**  
-Project: *LSM_in_HDL*  
-Date: October 2025
-
 ## License
 MIT License
